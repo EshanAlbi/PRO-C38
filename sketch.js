@@ -72,7 +72,7 @@ function setup(){
   gameOver.visible=false
 
   camera.position.x = displayWidth/2;
-  camera.position.y = displayHeight/2;
+  
   
 
 }
